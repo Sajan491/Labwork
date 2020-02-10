@@ -71,7 +71,7 @@ int main()
 {
 	queue s;
 	s.dequeue();
-	s.enqueue(1);
+	s.enqueue(8);
 	s.enqueue(2);
 	s.enqueue(3);
 	s.enqueue(4);
